@@ -19,3 +19,8 @@ m
 =src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java,f\6\f61bc8cc983455b547d554cfd3bddb383ad8d3bd
 h
 8src/main/java/jm/task/core/jdbc/service/UserService.java,f\7\f73e03c860134ada6f8799d5a94864e0d276fdf3
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	gitignore,6\f\6f819b366cb83f2e62d7b8b23b65c2e28c01306a
